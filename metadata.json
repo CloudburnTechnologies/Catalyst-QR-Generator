@@ -1,0 +1,7 @@
+{
+  "name": "AI-Powered QR Code Generator",
+  "description": "A comprehensive QR code generator that supports various data types, extensive customization options for design and color, and an AI assistant to help generate content for events and locations using Gemini.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
